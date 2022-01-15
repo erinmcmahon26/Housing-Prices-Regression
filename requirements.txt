@@ -6,5 +6,5 @@ pandas
 numpy
 seaborn
 matplotlib
-dyphon
+dython
 sklearn
