@@ -1,0 +1,10 @@
+pylint
+black
+pytest
+google-colab
+pandas
+numpy
+seaborn
+matplotlib
+dython
+sklearn
